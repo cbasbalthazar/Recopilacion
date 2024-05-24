@@ -9,3 +9,4 @@ st.image(image)
 
 
 st.write('En este link podrás encontrarte un maravilloso mundo de realidades extendidas que te llevan por un recorrido de los contenidos estudiados en inteligencia urbana, un curso del pregrado en Diseño Urbano y Gestión del Hábitat')
+st.write("https://www.spatial.io/s/sebasrambalthas-Lo-Fi-Hangout-6650041b654646d767079d5a")
